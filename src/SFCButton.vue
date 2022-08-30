@@ -6,5 +6,11 @@
 export default {
   name: "SFCButton",
 };
-
 </script>
+<style scoped>
+button {
+  padding: 20px;
+  color: #fff;
+  background: green;
+}
+</style>
